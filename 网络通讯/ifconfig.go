@@ -389,7 +389,6 @@ func parseNerDev() {
 	}
 }
 
-
 const (
 	help = `Usage:
   ifconfig [-a] [-v] [-s] <interface> [[<AF>] <address>]
